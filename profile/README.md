@@ -24,5 +24,6 @@ All technologies and programming languages such as node js, laravel, python ..et
 We are writing and updating wikis that describe the contribution guide and code of conduct
 
 We are help the developer to improve their experience and let them know more about open source community
-and open source software development, so we invite you to follow out platform pages: 
-on facebook: 
+and open source software development, so we invite you to follow out platform pages:
+on facebook: [Syrian Open Source](https://www.facebook.com/syrian.open.source/)
+and linked in : [Syrian Open Source](https://www.linkedin.com/company/syrian-open-source)  
