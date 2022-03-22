@@ -1,3 +1,5 @@
+<p align="center"><a href="https://www.facebook.com/syrian.open.source/" target="_blank"><img src="https://github.com/Syrian-Open-Source/.github/blob/main/docs/images/image.png?raw=true" width="400"></a></p>
+
 # Syrian Open Source Platform
 
 ## What is syrian open source ?
