@@ -18,3 +18,4 @@ and also contributes to raising the efficiency of developers
 by working on distributed systems and teams.
 
 ## What are the technologies that we work for ?
+All technologies and programming languages such as node js, laravel, python ..etc
