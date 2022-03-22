@@ -21,3 +21,4 @@ by working on distributed systems and teams.
 All technologies and programming languages such as node js, laravel, python ..etc
 
 ## How to start contribute with us ?
+We are writing and updating wikis that describe the contribution guide and code of conduct
