@@ -16,8 +16,11 @@ It is preferable that you send an email from the same structure as this template
  - Email to: contribute@syrianopensource.com
  - Subject: "title of idea, project, package ..etc"
  - Body:
-   - brief of your work
-   - used technologies
-   - server requirement if your project can be deployed as a demo
-   - full description of your work
+   - Brief of your work
+   - Used technologies
+   - Server requirement if your project can be deployed as a demo
+   - Full description of your work
    - GitHub link if exists
+   - Preferred method of communication with you
+
+If we do not contact you within two days, please contact our Facebook account through the following link:  https://www.facebook.com/syrian.open.source
