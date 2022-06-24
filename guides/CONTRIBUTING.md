@@ -18,6 +18,6 @@ It is preferable that you send an email from the same structure as this template
  - Body:
    - brief of your work
    - used technologies
-   - server requirement if your project can deploy as a demo
+   - server requirement if your project can be deployed as a demo
    - full description of your work
    - github link if exists
