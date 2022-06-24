@@ -13,11 +13,11 @@ We confirm not to develop or publish anything as long as it is not stated by the
 ** How to send this email **
 To help us organize getting ideas, we created an email template.
 It is preferable that you send an email from the same structure as this template.
- - Email to: ideas@syrianopensource.com
+ - Email to: contribute@syrianopensource.com
  - Subject: "title of idea, project, package ..etc"
  - Body:
    - brief of your work
    - used technologies
    - server requirement if your project can be deployed as a demo
    - full description of your work
-   - github link if exists
+   - GitHub link if exists
