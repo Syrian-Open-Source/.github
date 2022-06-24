@@ -16,4 +16,8 @@ It is preferable that you send an email from the same structure as this template
  - Email to: ideas@syrianopensource.com
  - Subject: "title of idea, project, package ..etc"
  - Body:
-   - 
+   - brief of your work
+   - used technologies
+   - server requirement if your project can deploy as a demo
+   - full description of your work
+   - github link if exists
